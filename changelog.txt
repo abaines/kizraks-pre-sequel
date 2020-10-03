@@ -2,4 +2,7 @@
 Version: 0.0.1
 Date: 2020.10.03
   Changes:
-    - First Release
+    - First Release 🚀
+    - Give night vision equipment enough internal buffer energy to go one night without batteries
+    - Allow burner inserters to leech
+
