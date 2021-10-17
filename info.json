@@ -1,13 +1,13 @@
 {
 	"name": "kizraks-pre-sequel",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"title": "Kizrak's Pre-Sequel",
 	"author": "Kizrak",
 	"contact": "",
 	"homepage": "https://github.com/abaines/",
 	"factorio_version": "1.1",
 	"dependencies": [
-		"base >= 1.0.0"
+		"base >= 1.1.42"
 	],
 	"description": "Random tweaks and improvements. Often tier 0.5 or 1.5 technologies to smooth out progression."
 }
